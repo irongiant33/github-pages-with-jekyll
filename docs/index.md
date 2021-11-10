@@ -32,6 +32,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/irongiant33/github-pages-with-jekyll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### LaTex Support
+
+I hope this supports LaTex. Here is a fun equation to test with:
+
+$$ y[i] = \sum_{n=0}^{N} x[n]e^{(j2\pi n)/ N} \quad \forall i\in[0, N-1]$$
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
